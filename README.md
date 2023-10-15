@@ -17,7 +17,7 @@ Builds With : ``` HTML ``` ``` CSS```
 
 This repository is open to all members of Github communtiy. Any member can contribute to this project.
 
-➡ https://github.com/Ayush1390/restraurant-website-hacktoberfest.git
+➡ https://github.com/Ayush1390/Restaurant-website-HacktoberFest
 
 
 ## What is HacktoberFest?
